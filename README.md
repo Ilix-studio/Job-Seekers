@@ -12,3 +12,6 @@ npx create-expo-app -e with-router
 
 - [Expo Router: Docs](https://expo.github.io/router)
 - [Expo Router: Repo](https://github.com/expo/router)
+When you run npx expo start in your project, Expo CLI starts a development server and generates a QR code.
+To run Expo-cli globally - expo-cli start --tunnel 
+To use react native snippets use rnpc 
